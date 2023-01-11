@@ -18,6 +18,8 @@ data, information and tool about dictionary and grammar
 
 ### Multi Language Dictionary
 - https://www.lexilogos.com/english/index.htm
+- http://www.langtolang.com/
+- https://www.lexicool.com/
 
 ## CC-CEDICT (Creative Commons Chinese-English dictionary)
 - has a CC-CEDICT format.
