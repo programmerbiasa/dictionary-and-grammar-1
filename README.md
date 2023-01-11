@@ -6,7 +6,10 @@ data, information and tool about dictionary and grammar
 * CC-CEDICT - is a continuation of the CEDICT project (public-domain Chinese-English dictionary).
 * CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc.
 * Wikitionary - Free Wikipedia Dictionary
-* Stardict
+* Stardict (.ifo / .dict / .idx / .syn)
+* Babylon (.bgl)
+* Dictd (.index/.dict [.dz])
+* ABBYY Lingvo. Dsl-dictionaries
 
 ## Online Dictionary:
 ### Chinese Dictionary
