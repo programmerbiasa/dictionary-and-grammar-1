@@ -6,6 +6,7 @@ data, information and tool about dictionary and grammar
 * CC-CEDICT - is a continuation of the CEDICT project (public-domain Chinese-English dictionary).
 * CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc.
 * Wikitionary - Free Wikipedia Dictionary
+* Stardict
 
 ## Online Dictionary:
 ### Chinese Dictionary
@@ -33,3 +34,6 @@ data, information and tool about dictionary and grammar
 ## Wikitionary 
 - Entry layout.
 - Style guide.
+
+## Stardict
+- has a StarDictFileFormat
