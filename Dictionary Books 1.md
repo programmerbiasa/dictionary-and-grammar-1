@@ -1,4 +1,6 @@
+- DK Dictionary
 - Hippocrene Practical_Dictionaries
 - Hippocrene Concise_Dictionaries
+- KESAINT-BLANC Dictionary
 - Oxford Collocation Dictionary
 - Tuttle Concise Dictionary
