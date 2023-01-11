@@ -19,7 +19,7 @@ data, information and tool about dictionary and grammar
 ### Multi Language Dictionary
 - https://www.lexilogos.com/english/index.htm
 
-# CC-CEDICT (Creative Commons Chinese-English dictionary)
+## CC-CEDICT (Creative Commons Chinese-English dictionary)
 - has a CC-CEDICT format.
 - the official software is MDBG Chinese-English dictionary.
 - the others: EDICT (Japanese-English dictionary) project.
