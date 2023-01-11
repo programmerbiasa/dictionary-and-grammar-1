@@ -5,6 +5,7 @@ data, information and tool about dictionary and grammar
 ## Dictionary sources:
 * CC-CEDICT - is a continuation of the CEDICT project (public-domain Chinese-English dictionary).
 * CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc.
+* Wikitionary - Free Wikipedia Dictionary
 
 ## Online Dictionary:
 ### Chinese Dictionary
@@ -28,3 +29,7 @@ data, information and tool about dictionary and grammar
 
 ## CedPane (Chinese-English Dictionary Public-domain Additions for Names Etc)
 - has a tab separated value (tsv) look a like.
+
+## Wikitionary 
+- Entry layout.
+- Style guide.
