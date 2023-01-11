@@ -4,7 +4,7 @@ data, information and tool about dictionary and grammar
 
 ## Dictionary sources:
 * CC-CEDICT - is a continuation of the CEDICT project (public-domain Chinese-English dictionary).
-* CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc
+* CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc.
 
 ## Online Dictionary:
 ### Chinese Dictionary
@@ -23,3 +23,6 @@ data, information and tool about dictionary and grammar
 - has a CC-CEDICT format.
 - the official software is MDBG Chinese-English dictionary.
 - the others: EDICT (Japanese-English dictionary) project.
+
+## CedPane (Chinese-English Dictionary Public-domain Additions for Names Etc)
+- has a tab separated value (tsv) look a like.
