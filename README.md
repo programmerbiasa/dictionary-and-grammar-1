@@ -4,7 +4,7 @@ data, information and tool about dictionary and grammar
 
 ## Dictionary sources:
 * CC-CEDICT - is a continuation of the CEDICT project (public-domain Chinese-English dictionary).
-* CedPane - Over 70K words, plenty of names and proper nouns
+* CedPane - Chinese-English Dictionary Public-domain Additions for Names Etc
 
 ## Online Dictionary:
 ### Chinese Dictionary
