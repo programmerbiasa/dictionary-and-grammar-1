@@ -10,6 +10,7 @@ data, information and tool about dictionary and grammar
 * Babylon (.bgl)
 * Dictd (.index/.dict [.dz])
 * ABBYY Lingvo. Dsl-dictionaries
+* XDXF project (XML Dictionary eXchange Format)
 
 ## Online Dictionary:
 ### Chinese Dictionary
