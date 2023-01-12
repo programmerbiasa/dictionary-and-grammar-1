@@ -7,6 +7,6 @@
 - Betty Azar Basic English Grammar
 - Cambridge University Press English Grammar In Use
 - Saddle Back Basic English Grammar for English Language Learners
-- Learners Publishers English Grammar for Students
+- Scholastic Learners Publishers English Grammar for Students
 - Cambridge University Press Basic Grammar In Use
 - Prim-Ed English Grammar Essentials
