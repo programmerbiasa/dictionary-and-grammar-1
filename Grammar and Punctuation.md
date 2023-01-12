@@ -10,3 +10,7 @@
 - Scholastic Learners Publishers English Grammar for Students
 - Cambridge University Press Basic Grammar In Use
 - Prim-Ed English Grammar Essentials
+- Cambridge University Press Functional English Grammar
+- Penguin Random House DK English for Everyone: English Grammar Guide
+- Goold Brown The Grammar of English Grammars
+- De Gruyter Mouton The Grammar of the English Verb Phrase
