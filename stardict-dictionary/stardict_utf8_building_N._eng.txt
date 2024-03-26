@@ -1,0 +1,205 @@
+# Building English - Indonesia Stardict Format
+# Community maintained free English Indonesia dictionary.
+# 
+# Published by Private
+# 
+# License:
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# https://creativecommons.org/licenses/by-sa/4.0/
+# 
+# Referenced works:
+#  - Copyright (C) 100,
+# 
+# Stardict can be downloaded from:
+# https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+# 
+# Additions and corrections can be sent through:
+# https://cc-cedict.org/editor/editor.php
+# 
+# Stardict:
+# https://cc-cedict.org/wiki/
+# 
+#! version=1
+#! subversion=0
+#! format=ts
+#! charset=UTF-8
+#! entries=180
+#! publisher=Private Course And Tutor Course
+#! license=https://creativecommons.org/licenses/by-sa/4.0/
+#! date=2000-12-23T01:28:26Z
+#! time=1671758906
+academy	akademi, pendidikan keahlian atau tinggi
+advance	tingkat lanjut
+airport	bandar udara, lapangan terbang
+airtight room	kamar kedap suara
+archaelogical service	dinas purbakala
+art and curio shop	toko barang - barang antik dan kuno
+art gallery	balai pameran hasil kesenian
+auction room	balai lelang
+aula	ruang pertemuan murid
+back,chamber room	ruang tersembunyi
+badminton court	lapangan atau gelanggang bulu tangkis
+ball room	ruang dansa
+ballroom	gedung pertunjukkan tari - tarian
+bank	bank ( kantor )
+bar room	ruang bar, minum
+barber shop	tempat gunting atau cukur rambut
+bath room	kamar mandi
+batik shop	toko batik
+bed sitting room	kamar kos
+bike house	tempat penitipan sepeda
+boiler room	kamar ketel
+book shop atau store	toko buku
+book stall	kios buku
+brick stone	batu bata, merah
+building materials	bahan - bahan bangunan
+building	bangunan, gedung
+bungalow	rumah peristirahatan di gunung
+bus station	stasiun bis
+bus terminal	terminal ( pangkalan terakhir ) bis
+castle	istana, rumah bangsawan ( yang dikelilingi benteng dan parit )
+cathedral	katedral, gereja besar
+cement	semen
+cemetery, grave	kuburan, makam
+chamber	ruang
+chapel	kapel ( gereja kecil ), gereja di desa
+charge room	kamar pemeriksaan di kantor polisi
+chinese temple	kuil atau kelenteng
+church yard	makam orang kristen, kerkop, kerkhof ( Belanda )
+church	gereja
+classroom	ruang kelas
+clinic	klinik, rumah pengobatan
+club	klub, perkumpulan
+college	"universitas / perguruan tinggi / kolese"
+common building	gedung umum
+common place	tempat umum
+consulting room	kamar periksa (dokter)
+convention hall	balai musyawarah nasional atau internasional
+coral	koral, batu kecil - kecil
+cot	pondok
+course	kursus
+court	gedung pengadilan
+crib	kandang
+dancing hall	balai tari - tarian
+dark room	kamar gelap, pemrosesan film
+delivery room	kamar bersalin
+department	departemen
+district court	pengadilan negeri
+double atau twin bed room	kamar dengan dua tempat tidur
+drawing room	kamar gambar
+driving course	kursus mengemudi
+elementary school	sekolah dasar
+emergency room	ruang gawat darurat
+engine room	ruang mesin
+english course	kursus bahasa Inggris
+factory	pabrik
+faculty of economic	fakultas ekonomi
+faculty of law	fakultas hukum
+faculty of literature	fakultas sastra
+faculty of technics	fakultas tehnik
+fruit shop	toko buah - buahan
+gallery	galeri, beranda, serambi
+gaol, jail	penjara
+garage	garasi, kandang mobil
+great beyond, hereafter	akhirat
+guard room	ruang penjaga
+handicraft shop	toko barang - barang kerajinan tangan
+hero cemetery	makam pahlawan
+high court	pengadilan tinggi
+hindu temple	candi hindu, pura
+hospital	rumah sakit
+hotel	hotel, penginapan mewah
+immigration office	kantor imigrasi
+indonesian miniature park	taman mini indonesia indah
+information office	kantor penerangan
+inn	penginapan kecil atau sederhana
+intermediate	tingkat menengah
+jewelry shop	toko perhiasan, mas intan
+jutty room	kamar balkon
+kindergarden	taman kanak - kanak
+laboratory	laboratorium
+lavatory	kaskus, kamar buang air besar
+law court	kantor pengadilan
+library	ruang perpustakaan
+lodging	pondokan
+luggage room	ruang bagasi
+market	pasar
+ministry	kementerian
+mosque	mesjid
+motel	hotel kecil
+movies	gedung bioskop
+museum	musium, gedung arca, gedung gajah, gedung peninggalan barang bersejarah
+music store	toko alat musik
+national monument	gedung monumen, tugu peringatan nasional
+night club	gedung pertemuan santai
+office	kantor
+official residence	perumahan dinas
+operation room	kamar bedah, operasi
+p c ( port cement )	semen
+painter	cat
+painting oil	cat minyak
+park	taman
+people complex	perumahan rakyat
+places	tempat - tempat
+police office	kantor polisi
+polyclinic	balai pengobatan umum
+post office	kantor pos
+practice room	kamar atau ruang praktikum
+prelimanary	tingkat permulaan
+press room	ruang pers, wartawan
+printing office	percetakan
+prison	penjara
+prisonner	narapidana
+public health service	puskesmas ( pusat kesehatan masyarakat )
+quick lime	kapur
+railways station	stasiun kereta api
+reception room	ruang penerimaan tamu
+residence	tempat
+rest room	toilet
+restaurant	restoran, rumah makan
+room decoration	dekorasi ruangan
+room occupant	penghuni kamar
+room servent	pelayan kamar
+room service	layanan kamar
+room setting	pengaturan ruangan
+room	ruang
+school	sekolah
+secondary chool	sekolah lanjutan pertama, sekolah lanjutan tingkat pertama, sekolah menengah pertama
+secondary school of technics	Sekolah Teknik (ST)
+senior high school of teacher	Sekolah Guru Atas
+senior high school of technics	Sekolah Teknik Menengah (STM)
+senior high school	sekolah lanjutan atas, sekolah lanjutan tingkat atas, sekolah menengah umum, sekolah menengah atas
+sentry box	rumah jaga monyet
+service station	bengkel mobil, servis mobil, tempat (bengkel) servis mobil
+shopping centre	pusat pertokoan
+show room	ruang pameran, etalase
+space room	kamar kosong
+sport hall	gedung olahraga
+sport room	kamar atau ruang senam
+square	lapangan
+stadium	stadion
+stage	pangung, podium
+state building	gedung atau bangunan negara
+state palace	istana negara
+state room	kabin penumpang
+stone	batu
+subway station	stasiun kereta api bawah tanah
+sugar factory , sugar house	pabrik gula
+super market	swalayan, pasar serba ada
+supreme court	mahkamah agung
+swimming pool	kolam renang
+telegram office	kantor telegram
+telephone office	kantor telepon
+tennis court	gelanggang tenis
+test room	kamar uji
+theatre	bioskop, gedung pertunjukan drama atau sandiwara, gedung pertunjukkan pementasan drama atau sandiwara
+toilet	kamar kecil, kamar berhias
+town hall	balai kota
+traffic garden	taman lalu lintas
+training centre	pusat latihan
+tunnel	terowongan
+university	universitas, perguruan tinggi
+urinoir	kamar buang air kecil
+valve room	kamar tutup
+waiting room	ruang tunggu
+zoo	kebun binatang
