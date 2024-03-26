@@ -1,0 +1,37 @@
+# Most Useful English - Chinese Stardict Format
+# Community maintained free English Chinese dictionary.
+# 
+# Published by Private Course And Tutor Course
+# 
+# License:
+# Creative Commons Attribution-ShareAlike 4.0 International License
+# https://creativecommons.org/licenses/by-sa/4.0/
+# 
+# Referenced works:
+#  - Copyright (C) 100,
+# 
+# Stardict can be downloaded from:
+# https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+# 
+# Additions and corrections can be sent through:
+# https://cc-cedict.org/editor/editor.php
+# 
+# Stardict:
+# https://cc-cedict.org/wiki/
+# CDICT國語辭典
+# 
+#! version=1
+#! subversion=0
+#! format=ts
+#! charset=UTF-8
+#! entries=180
+#! publisher=Private Course And Tutor Course
+#! license=https://creativecommons.org/licenses/by-sa/4.0/
+#! date=2000-12-23T01:28:26Z
+#! time=1671758906
+Good day, how are you?	你好，怎么样？ (T 你好，怎麼樣) Nǐ Hǎo Zěn Me Yàng / Ni3 Hao3 Zen3 Me Yang4 ㄋ｜ˇ ㄏㄠˋ, ? 
+Hello!	你好 Nǐ Hǎo / Ni3 Hao3 ㄋ｜ˇ ㄏㄠˋ
+Hi!	你好 Nǐ Hǎo / Ni3 Hao3 ㄋ｜ˇ ㄏㄠˋ
+Hi, I'm doing well.	你好，我很好！ Nǐ Hǎo, Wǒ Hěn Hǎo / Ni3 Hao3, Wo3 Hen3 Hao3 ㄋ｜ˇ ㄏㄠˋ ㄜˇ ㄏㄣˇ ㄏㄠˋ
+How are you?	你好 Nǐ Hǎo / Ni3 Hao3 ㄋ｜ˇ ㄏㄠˋ
+postscript	又及 Yòu Jí / You4 Ji2 ㄡˋ　ㄐ｜ˊ
