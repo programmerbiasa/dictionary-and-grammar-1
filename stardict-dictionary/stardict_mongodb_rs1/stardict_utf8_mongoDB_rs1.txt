@@ -1,0 +1,40 @@
+# Most Useful MongoDB Resources Stardict Format
+# Community maintained free MongoDB help manual.
+# 
+# Published by Private Course And Tutor Course
+# 
+# License:
+# Server Side Public License (SSPL)
+# https://www.mongodb.com/licensing/server-side-public-license, https://spdx.org/licenses/SSPL-1.0.html
+# GNU AGPL v3.0
+# http://www.gnu.org/licenses/agpl-3.0.html
+# 
+# Referenced works:
+#  - Copyright (C) 100,
+# 
+# Stardict can be downloaded from:
+# https://sourceforge.net/projects/stardict-4/
+# 
+# MongoDB can be downloaded from:
+# https://www.mongodb.com/
+# 
+# Other Dictionary can downloaded from:
+# https://github.com/programmerbiasa/dictionary-and-grammar-1
+# 
+# 
+#! version=1
+#! subversion=0
+#! format=ts
+#! charset=UTF-8
+#! entries=180
+#! publisher=Private Course And Tutor Course
+#! license=https://creativecommons.org/licenses/by-sa/4.0/
+#! date=2000-12-23T01:28:26Z
+#! time=1671758906
+Show All Databases	show dbs
+Show Current Database	db
+Create Or Switch Database	use database_name
+Drop Database	db.dropDatabase()
+Create Collection	db.createCollection('collection_name')
+Show Collections	show collections
+Insert Row	db.collection_name.insert({\n\t_id: 1, \n\titem: 'envelopes', \n\tqty: 100, \n\ttype: 'stationery', \n\tlast_update: Date() })
