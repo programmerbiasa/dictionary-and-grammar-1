@@ -23,3 +23,5 @@ read more on this site:
 
 ## Bug reports
 Use [GitHub issue tracker](https://github.com/programmerbiasa/dictionary-and-grammar-1/issues) for reporting bugs. You can provide patches there as well.
+
+**A due disclaimer**: not all dictionary files are GNU General Public License Open Source Version 3 on this site, except for a couple ones which are well known and which probably don't actively infringe on any copyrights. If you download any dictionary content referred from this page or from any other page on this site and other site, it's solely you who are liable for any possible arising copyright infringements.
