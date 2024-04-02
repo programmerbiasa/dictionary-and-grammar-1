@@ -24,4 +24,15 @@ If you have internet online access, you can choose either:
 - https://www.dictionary.com/
 - https://www.wiktionary.org/
 
+# How To Add dictionaries to GoldenDict
+
+In order to use dictionaries from this website you should make few simple steps:
+
+1.  Take the most recent version of a dictionary from the [Release](https://github.com/programmerbiasa/dictionary-and-grammar-1/releases) section. Choose files with archive file extension, e.g. “zip” and ignore “Source code”.
+2.  Downloaded file is an archive which should be extracted. For example, dictionary [lingvosoft-ChEn-img-2.4.2](https://github.com/programmerbiasa/dictionary-and-grammar-1/releases/download/lingvosoftdict/lingvosoft-ChEn-img-2.4.2.dsl.dz) contains folder “lingvosoft-ChEn-img-2.4.2”. Save this folder with files on your computer.
+3.  In GoldenDict, open menu Edit > Dictionaries.
+4.  Switch to the tabs Sources > Files (it should be shown by default; see image below).
+5.  Press button “Add…” and open the folder of the dictionary. Press “OK” to confirm, and you will see how the dictionary is being indexed.
+6.  Everything is ready and you could start looking for words, e.g. “color”.
+
 **A due disclaimer**: not all dictionary files are GNU General Public License Open Source Version 3 on this site, except for a couple ones which are well known and which probably don't actively infringe on any copyrights. If you download any dictionary content referred from this page or from any other page on this site and other site, it's solely you who are liable for any possible arising copyright infringements.
