@@ -244,13 +244,23 @@ ISO Language Code Table
 - zu-ZA	Zulu (South Africa)
 
 ## Reference:
-[https://www.rfc-editor.org/rfc/bcp/bcp47.txt](https://www.rfc-editor.org/rfc/bcp/bcp47.txt)
+[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
 
 [https://en.wikipedia.org/wiki/ISO\_639](https://en.wikipedia.org/wiki/ISO_639)
 
 [https://en.wikipedia.org/wiki/List\_of\_ISO\_639-1\_codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
+[https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
+
 [https://en.wikipedia.org/wiki/Language\_code](https://en.wikipedia.org/wiki/Language_code)
+
+[https://www.iso.org/standard/4766.html](https://www.iso.org/standard/4766.html)
+
+[https://www.rfc-editor.org/rfc/bcp/bcp47.txt](https://www.rfc-editor.org/rfc/bcp/bcp47.txt)
+
+[https://www.w3.org/TR/html401/struct/dirlang.html](https://www.w3.org/TR/html401/struct/dirlang.html)
 
 [https://www.w3.org/TR/html401/references.html#ref-ISO639](https://www.w3.org/TR/html401/references.html#ref-ISO639)
 
