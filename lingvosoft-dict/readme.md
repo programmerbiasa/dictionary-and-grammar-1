@@ -11,7 +11,7 @@ For GoldenDict, use:
 Choose either:
 
 - ***installer.exe*** for traditional installer experience.
-- ***a zip format file*** for simply unzip it anywhere you want (e.g. pen drive) and put your dictionaries to the content/ directory.
+- ***a zip format file*** for simply unzip it anywhere you want (e.g. pen drive) and put your dictionaries to the content/ directory of your GoldenDict portable application location.
 
 ## Linux And MacOS
 for Linux read on this site: 
@@ -23,6 +23,60 @@ for Linux read on this site:
 If you have internet online access, you can choose either:
 - https://www.dictionary.com/
 - https://www.wiktionary.org/
+
+**lingvosoft dictionary supported language format:**
+INDEX_LANGUAGE "SourceLanguage"
+CONTENTS_LANGUAGE "TargetLanguage"
+
+Change "SourceLanguage" and "TargetLanguage" to one of these following list:
+Albanian
+Arabic
+Armenian
+Azeri
+Bengali
+Bosnian
+Bulgarian
+Chinese(Chinese Simpl.)
+Chinese(Chinese Trad.)
+Croatian
+Czech
+Danish
+Dutch
+English
+Estonian
+Finnish
+French
+German
+Greek
+Hebrew
+Hindi
+Hungarian
+Indonesian
+Italian
+Japanese
+Korean
+Latin
+Latvian
+Lithuanian
+Norwegian
+Persian
+(Farsi)
+Polish
+Portuguese
+Romanian
+Russian
+Serbian
+Slovak
+Slovenian
+Spanish
+Swedish
+Tagalog (Filipino)
+Tatar
+Thai
+Turkish
+Ukrainian
+Vietnamese
+Yiddish
 
 # How To Add dictionaries to GoldenDict
 
