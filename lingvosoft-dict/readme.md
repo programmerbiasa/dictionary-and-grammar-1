@@ -46,7 +46,7 @@ Change "SourceLanguage" and "TargetLanguage" to one of these following list:
 - Russian
 - Spanish
 - Turkish
-- Vietnamese
+- Vietnamese  
 for more other languages, click [supported-language.md](supported-language.md)
 
 # How To Add dictionaries to GoldenDict
