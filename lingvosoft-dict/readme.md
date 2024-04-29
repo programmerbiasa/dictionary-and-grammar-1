@@ -29,53 +29,25 @@ INDEX_LANGUAGE "SourceLanguage"
 CONTENTS_LANGUAGE "TargetLanguage"
 
 Change "SourceLanguage" and "TargetLanguage" to one of these following list:
-- Albanian
 - Arabic
-- Armenian
-- Azeri
 - Bengali
-- Bosnian
-- Bulgarian
 - Chinese(Chinese Simpl.)
 - Chinese(Chinese Trad.)
-- Croatian
-- Czech
-- Danish
-- Dutch
 - English
-- Estonian
-- Finnish
 - French
 - German
-- Greek
-- Hebrew
 - Hindi
-- Hungarian
 - Indonesian
 - Italian
 - Japanese
 - Korean
-- Latin
-- Latvian
-- Lithuanian
-- Norwegian
 - Persian (Farsi)
-- Polish
 - Portuguese
-- Romanian
 - Russian
-- Serbian
-- Slovak
-- Slovenian
 - Spanish
-- Swedish
-- Tagalog (Filipino)
-- Tatar
-- Thai
 - Turkish
-- Ukrainian
 - Vietnamese
-- Yiddish
+for more other languages, click [supported-language.md](supported-language.md)
 
 # How To Add dictionaries to GoldenDict
 
