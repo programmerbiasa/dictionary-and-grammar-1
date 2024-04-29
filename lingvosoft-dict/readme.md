@@ -24,8 +24,8 @@ If you have internet online access, you can choose either:
 - https://www.dictionary.com/
 - https://www.wiktionary.org/
 
-**lingvosoft dictionary supported language format:**
-INDEX_LANGUAGE "SourceLanguage"
+**lingvosoft dictionary supported language format:**  
+INDEX_LANGUAGE "SourceLanguage"  
 CONTENTS_LANGUAGE "TargetLanguage"
 
 Change "SourceLanguage" and "TargetLanguage" to one of these following list:
